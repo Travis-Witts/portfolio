@@ -8,7 +8,7 @@
 /* Background image */
 body {
   background-image: url("./images/website-background.png");
-  font-family: montserrat;
+  font-family: 'Roboto', sans-serif;
 }
 
 /* Navbar */
@@ -162,6 +162,7 @@ a:hover {
 .project-title {
   text-decoration: underline;
   text-align: center;
+  background: rgba(255, 255, 255, 0.6);
 }
 
 .card-text {
