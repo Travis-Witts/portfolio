@@ -12,7 +12,8 @@ In this application, I have created a personal portfolio. The main objective was
 
 ## Technologies used
 - Bootstrap framework
-- Javascript
+- HTML
+- CSS
 ---
 
 ## Links:
