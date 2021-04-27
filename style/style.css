@@ -82,6 +82,13 @@ a:hover {
   nav ul li a {
     font-size: 16px;
   }
+  #index-card {
+    top: 0%;
+    font-size: 72px;
+    text-align: center;
+    padding-top: 7vh;
+    padding-bottom: 7vh;
+  }
 }
 
 @media (max-width: 858px) {
