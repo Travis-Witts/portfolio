@@ -147,3 +147,30 @@ a:hover {
   padding-top: 7vh;
   padding-bottom: 7vh;
 }
+
+.project-title {
+  text-decoration: underline;
+  text-align: center;
+}
+
+.card-text {
+  text-decoration: none;
+  text-align: center;
+}
+
+.project {
+  background: rgba(255, 255, 255, 0.6);
+  color: black;
+}
+
+.submit {
+  text-align: center;
+}
+
+.input-box {
+  background: rgba(255, 255, 255, 0.6);
+}
+
+#message {
+  padding-bottom: 100px;
+}
